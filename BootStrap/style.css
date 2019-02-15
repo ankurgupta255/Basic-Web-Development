@@ -1,0 +1,10 @@
+.btn-danger{
+	background-color: magenta;
+}
+.btn-danger:hover{
+	background-color: black;
+}
+.col{
+	background-color: pink;
+	border: 2px solid blue;
+}
